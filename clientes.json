@@ -1,0 +1,20 @@
+{
+  "cliente_id": "C1001",
+  "nome": "João Silva",
+  "email": "joao.silva@email.com",
+  "endereco": {
+    "rua": "Av. Paulista, 1000",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01310-100"
+  },
+  "data_cadastro": "2024-01-15T10:30:00Z",
+  "ultimo_login": "2024-01-20T14:22:00Z",
+  "cliques_recentes": [
+    {
+      "produto_id": "P2001",
+      "categoria": "livros",
+      "timestamp": "2024-01-15T10:25:00Z"
+    }
+  ]
+}
